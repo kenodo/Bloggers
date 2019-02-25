@@ -1134,6 +1134,8 @@ a:focus{
 }
 #contact .form .btn-submit:hover{
 	color: #fff;
+	background: #333;
+
 }
 .map-content{
 	padding:0
